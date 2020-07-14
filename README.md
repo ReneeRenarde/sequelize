@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # :wine: Drink Da Wine!
 
 
@@ -26,3 +27,8 @@ Using an home-grown ORM, the app has 3 basic CRUD functions...
   3. CREATE a new wine using the "Place Order" form, which...
     * hits a `/wine/create` route in Express to insert a new wine into the MySQL database
     * re-routes the webpage back to the index, where the burger is now ready to be eaten column (via Handlebars)
+=======
+# sequelize
+
+issues with committing -- placeholder for now. Don't forget
+>>>>>>> e4c65565c249fabe7386a3518a8c3c329080f56d
